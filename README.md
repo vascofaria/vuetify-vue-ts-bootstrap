@@ -1,2 +1,29 @@
-# vuetify-vue-ts-bootstrap
-A bootstrap program for Single pages applications based on Vue.js, Typescript and the vuetify lib
+# cg-3d-models
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Run your tests
+```
+yarn run test
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
