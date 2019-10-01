@@ -1,4 +1,4 @@
-# cg-3d-models
+# Vuetify-Vue-TS Bootstrap
 
 ## Project setup
 ```
